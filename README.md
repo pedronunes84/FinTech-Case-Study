@@ -52,7 +52,7 @@
 * With 98% of trial users converting to a paid plan and an NPS score close to 80, it’s safe to say Gusto is doing the right things on the product side. By building a great product that customers will continue to love is the best way to drive long-term customer retention.
 
 
-## Recommendations
+## Recommendations:
 
 * Gusto is accessible from any web-enabled device but does not have a mobile app. The most obvious recommendation would be to create a mobile app for users to access and input their information rather than going to a browser.
 
