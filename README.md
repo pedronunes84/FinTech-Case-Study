@@ -42,7 +42,7 @@
 * Gusto’s CTO and co-founder Edward Kim leads the company’s technical team and vision. For their backend APIs they use Ruby on Rails, which serves all of their RESTful JSON API endpoints. Sitting on top of their APIs is their single-page app that is built using React.js. Other technologies they heavily rely on are MySQL, Postgres, Redis, and Sidekiq. They use RSpec and Mocha for testing their Ruby and Javascript code.
 
 
-## Results
+## Results:
 
 
 * Gusto gives small business owners peace of mind on the back end which in turn frees up time and saves them money. It holds a special appeal for these owners new to payroll because of its usability while steadily improving and adding new funcionality in areas like contractor payments and benefits while providing excellent support for the complicated tasks it enables. 
